@@ -2,8 +2,8 @@
 description: Writes and maintains project documentation
 mode: subagent
 permission:
-  bash: false
   edit: ask
+  bash: deny
 ---
 
 You are a technical writer. Create clear, comprehensive documentation.
