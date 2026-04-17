@@ -3,6 +3,16 @@ node_modules/
 package-lock.json
 bun.lock
 
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Playwright
+playwright/.cache/
+
 # Environment files
 .env
 .env.local
@@ -20,3 +30,6 @@ bun.lock
 
 # OpenCode
 *.session
+
+# Data (optional)
+data/jobs.json

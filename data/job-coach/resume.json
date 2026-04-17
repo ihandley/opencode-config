@@ -1,0 +1,132 @@
+{
+  "name": "Ian Handley",
+  "email": "ianhandley@gmail.com",
+  "phone": "(605) 415-2577",
+  "location": "Spanish Fork, UT",
+  "linkedin": "linkedin.com/in/ianrhandley",
+  "github": "",
+  "website": "",
+  "summary": "Senior Software Engineer with 20+ years building and owning backend systems and distributed architectures. Recent focus in Go on AWS and GCP, leading teams and improving reliability and delivery. Actively exploring AI-driven workflows (agents, MCP, RAG) applied to real troubleshooting use cases.",
+  "skills": [
+    "Go",
+    "C#",
+    "JavaScript",
+    "Python",
+    "Distributed Systems",
+    "Microservices",
+    "Messaging",
+    "AWS",
+    "GCP",
+    "Azure",
+    "PostgreSQL",
+    "SQL Server",
+    "ETL",
+    "RabbitMQ",
+    "GitHub",
+    "GitLab",
+    "Docker",
+    "Kubernetes",
+    "System Design",
+    "APIs",
+    "LLMs",
+    "Agents",
+    "MCP",
+    "RAG",
+    "Team Leadership",
+    "Cross-functional Collaboration"
+  ],
+  "work_experience": [
+    {
+      "company": "Equifax",
+      "title": "Senior Software Engineer",
+      "start_date": "Jan 2023",
+      "end_date": "Apr 2026",
+      "location": "Atlanta, GA/Remote",
+      "bullets": [
+        "Owned Go-based backend services supporting high-volume chargeback systems (~millions of transactions/month)",
+        "Designed distributed systems across AWS and GCP improving system reliability and reducing incident frequency",
+        "Led a team of engineers for 2 years, improving delivery timelines and reducing deployment friction",
+        "Reduced troubleshooting time through improved internal tooling and diagnostics workflows",
+        "Built AI agents and MCP integrations using OpenCode to automate internal workflows",
+        "Explored RAG-based approaches for domain-specific troubleshooting and knowledge retrieval"
+      ]
+    },
+    {
+      "company": "Optilogic",
+      "title": "Senior Software Engineer",
+      "start_date": "Sep 2022",
+      "end_date": "Nov 2022",
+      "location": "American Fork, UT",
+      "bullets": [
+        "Developed microservices and APIs supporting supply chain optimization platforms",
+        "Designed containerized services (Docker/Kubernetes) improving deployment consistency",
+        "Implemented streaming data ingestion reducing memory usage during large file uploads",
+        "Integrated backend systems with Postgres and Azure storage services"
+      ]
+    },
+    {
+      "company": "Nu Skin",
+      "title": "Senior Software Engineer",
+      "start_date": "Aug 2019",
+      "end_date": "Aug 2022",
+      "location": "Provo, UT/Remote",
+      "bullets": [
+        "Maintained messaging platform processing large-scale business-critical transactions",
+        "Re-architected validation systems using AWS improving scalability and reliability",
+        "Designed cross-platform messaging bridge (RocketMQ \u2194 RabbitMQ) for international systems",
+        "Collaborated with global teams (including China) to support production systems",
+        "Built Node.js tooling accelerating internal microservice development"
+      ]
+    },
+    {
+      "company": "ActiveCare",
+      "title": "System Engineer",
+      "start_date": "May 2013",
+      "end_date": "Aug 2019",
+      "location": "Orem, UT",
+      "bullets": [
+        "Architected big-data platform processing millions of insurance claims for healthcare insights",
+        "Designed ETL pipelines (R, Talend, SSIS) enabling large-scale data processing",
+        "Built low-latency services integrating Salesforce, web systems, and medical devices",
+        "Led Salesforce integrations supporting e-commerce and patient workflows"
+      ]
+    },
+    {
+      "company": "United States Air Force",
+      "title": "Data Integrity Analyst",
+      "start_date": "Jul 2008",
+      "end_date": "Oct 2011",
+      "location": "Ellsworth AFB, SD",
+      "bullets": [
+        "Improved aircraft maintenance data accuracy through system-wide data integrity initiatives",
+        "Automated reporting workflows using VBA and Excel under constrained environments",
+        "Enhanced reliability of operational data used for maintenance decisions"
+      ]
+    },
+    {
+      "company": "Computer Research, Inc.",
+      "title": "Software Engineer",
+      "start_date": "Jan 2002",
+      "end_date": "Aug 2005",
+      "location": "Denver, CO",
+      "bullets": [
+        "Built financial systems supporting trading platforms using SQL Server",
+        "Developed internal web applications and tools improving team productivity",
+        "Led redesign of company web systems and trained staff on new tools"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Colorado, Denver",
+      "degree": "Bachelor's Degree",
+      "field": "Sociology"
+    },
+    {
+      "school": "Community College of the Air Force",
+      "degree": "Associate of Applied Science",
+      "field": "Avionics"
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+playwright
+pypdf
+reportlab
+python-docx
