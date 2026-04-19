@@ -1,50 +1,51 @@
 Ian Handley
-(605) 415-2577 | ianhandley@gmail.com | linkedin.com/in/ianrhandley | Spanish Fork, UT
+(605) 415-2577 | ianhandley@gmail.com | Spanish Fork, UT
+linkedin.com/in/ianrhandley
 
-Summary
-Senior Software Engineer with 20+ years building and owning backend systems and distributed architectures. Recent focus in Go on AWS and GCP, leading teams and improving reliability and delivery. Experience with AI-driven workflows (agents, MCP, RAG) applied to real-world troubleshooting and automation. Insurance domain background through healthcare claims processing platforms.
+SUMMARY
+Senior Software Engineer with 20+ years building and owning backend systems and distributed architectures. Recent focus in Go and Python on GCP and AWS, with proven expertise in microservices, Kubernetes, and cloud-native platforms. Led teams improving reliability, delivery, and system observability. Actively exploring AI-driven workflows applied to real troubleshooting use cases.
 
-Skills
-Go, Python, C#, JavaScript | Distributed Systems, Microservices, Messaging | AWS, GCP, Azure | PostgreSQL, SQL Server | RabbitMQ, Docker, Kubernetes | APIs, LLMs, Agents, MCP, RAG | Team Leadership, Cross-functional Collaboration
+CORE SKILLS
+Go, Python, C#, JavaScript, Distributed Systems, Microservices, gRPC, REST APIs, PostgreSQL, Messaging (RabbitMQ), GCP, Kubernetes, Docker, AWS, Azure, Protocol Buffers, System Design, APIs, LLMs, Agents, Team Leadership, Cross-functional Collaboration
 
-Experience
-Senior Software Engineer | Equifax | Jan 2023 – Apr 2026 | Atlanta, GA/Remote
-• Owned Go-based backend services supporting high-volume chargeback systems (~millions of transactions/month)
-• Designed distributed systems across AWS and GCP improving system reliability and reducing incident frequency
-• Led a team of engineers for 2 years, improving delivery timelines and reducing deployment friction
-• Reduced troubleshooting time through improved internal tooling and diagnostics workflows
-• Built AI agents and MCP integrations using OpenCode to automate internal workflows
-• Explored RAG-based approaches for domain-specific troubleshooting and knowledge retrieval
+PROFESSIONAL EXPERIENCE
 
-Senior Software Engineer | Optilogic | Sep 2022 – Nov 2022 | American Fork, UT
-• Developed microservices and APIs supporting supply chain optimization platforms
-• Designed containerized services (Docker/Kubernetes) improving deployment consistency
-• Implemented streaming data ingestion reducing memory usage during large file uploads
-• Integrated backend systems with Postgres and Azure storage services
+Equifax | Senior Software Engineer | Jan 2023 – Apr 2026 | Atlanta, GA/Remote
+• Owned Go-based backend services supporting high-volume chargeback systems (~millions of transactions/month) with PostgreSQL
+• Designed and operated distributed systems across GCP and AWS, improving reliability and reducing incident frequency
+• Operated services on Kubernetes clusters in GCP, responsible for deployment and troubleshooting of workloads
+• Led a team of engineers for 2 years, improving delivery timelines and system observability
+• Built and maintained internal observability tooling and diagnostics workflows for failure detection
+• Explored AI-driven approaches for automated troubleshooting and knowledge retrieval
 
-Senior Software Engineer | Nu Skin | Aug 2019 – Aug 2022 | Provo, UT/Remote
-• Maintained messaging platform processing large-scale business-critical transactions
-• Re-architected validation systems using AWS improving scalability and reliability
+Nu Skin | Senior Software Engineer | Aug 2019 – Aug 2022 | Provo, UT/Remote
+• Maintained distributed messaging platform processing large-scale business-critical transactions using RabbitMQ
+• Re-architected validation services on AWS improving scalability, reliability, and observability
 • Designed cross-platform messaging bridge (RocketMQ ↔ RabbitMQ) for international systems
-• Collaborated with global teams (including China) to support production systems
-• Built Node.js tooling accelerating internal microservice development
+• Collaborated with global teams to support and troubleshoot production systems
+• Built Node.js backend tooling accelerating internal microservice development
 
-System Engineer | ActiveCare | May 2013 – Aug 2019 | Orem, UT
-• Architected big-data platform processing millions of insurance claims for healthcare insights
-• Designed ETL pipelines (R, Talend, SSIS) enabling large-scale data processing
-• Built low-latency services integrating Salesforce, web systems, and medical devices
-• Led Salesforce integrations supporting e-commerce and patient workflows
+Optilogic | Senior Software Engineer | Sep 2022 – Nov 2022 | American Fork, UT
+• Developed microservices and REST APIs supporting supply chain optimization platforms
+• Designed containerized services using Docker and Kubernetes improving deployment consistency and portability
+• Implemented streaming data ingestion patterns reducing memory overhead during large file processing
+• Integrated backend systems with PostgreSQL and cloud storage services
 
-Data Integrity Analyst | United States Air Force | Jul 2008 – Oct 2011 | Ellsworth AFB, SD
-• Improved aircraft maintenance data accuracy through system-wide data integrity initiatives
-• Automated reporting workflows using VBA and Excel under constrained environments
-• Enhanced reliability of operational data used for maintenance decisions
+ActiveCare | System Engineer | May 2013 – Aug 2019 | Orem, UT
+• Architected distributed big-data platform processing millions of insurance claims for analytics
+• Designed ETL pipelines enabling large-scale data processing and transformation
+• Built low-latency microservices integrating multiple external systems
+• Led cross-functional integrations supporting production workflows
 
-Software Engineer | Computer Research, Inc. | Jan 2002 – Aug 2005 | Denver, CO
-• Built financial systems supporting trading platforms using SQL Server
-• Developed internal web applications and tools improving team productivity
-• Led redesign of company web systems and trained staff on new tools
+Computer Research, Inc. | Software Engineer | Jan 2002 – Aug 2005 | Denver, CO
+• Built backend systems supporting trading platforms using SQL Server and relational databases
+• Developed web applications and internal tools improving team productivity
+• Led system redesign and training initiatives
 
-Education
-Bachelor's Degree, Sociology | University of Colorado, Denver
-Associate of Applied Science, Avionics | Community College of the Air Force
+United States Air Force | Data Integrity Analyst | Jul 2008 – Oct 2011 | Ellsworth AFB, SD
+• Improved data accuracy and reliability through system-wide initiatives
+• Automated reporting workflows enhancing operational data reliability
+
+EDUCATION
+University of Colorado, Denver | Bachelor's Degree in Sociology
+Community College of the Air Force | Associate of Applied Science in Avionics

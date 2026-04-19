@@ -27,14 +27,7 @@
   "autoupdate": true,
   "instructions": [
     "AGENTS.md",
-    ".opencode/instructions/mcp-preference.md",
-    ".opencode/instructions/job-coach/persona.md",
-    ".opencode/instructions/job-coach/rules.md",
-    ".opencode/instructions/job-coach/workflows/job-prep.md",
-    ".opencode/instructions/job-coach/workflows/resume.md",
-    ".opencode/instructions/job-coach/workflows/email.md",
-    ".opencode/instructions/job-coach/workflows/dashboard.md",
-    ".opencode/instructions/job-coach/workflows/follow-up.md"
+    "instructions/mcp-preference.md"
   ],
   "mcp": {
     "github": {

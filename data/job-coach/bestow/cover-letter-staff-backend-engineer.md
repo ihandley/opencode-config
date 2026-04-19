@@ -1,30 +1,7 @@
-Ian Handley
-(605) 415-2577 | ianhandley@gmail.com | linkedin.com/in/ianrhandley
+I am writing to express my strong interest in the Staff Backend Engineer position with Bestow's IPC Engineering team. With over 20 years of backend systems development and a proven track record building distributed microservices on Kubernetes and GCP, I am excited about the opportunity to help modernize the life insurance platform. Your focus on developing modular Python, Go, and Java services resonates deeply with my recent experience at Equifax, where I owned high-volume backend systems processing millions of transactions monthly using Go, PostgreSQL, and Kubernetes across distributed cloud architectures.
 
-April 17, 2026
+My technical background aligns closely with your core requirements. I bring professional expertise in both Python and Go, extensive experience designing and operating services on Kubernetes in GCP, and a strong foundation with PostgreSQL and relational databases. At Equifax, I designed and operated distributed systems across GCP and AWS, while at Nu Skin I architected and maintained a distributed messaging platform supporting large-scale business-critical transactions. I am comfortable with Docker for local development, proficient in designing APIs (including gRPC and REST patterns), and have consistently taken responsibility for building observable, maintainable systems with automated tests.
 
-Bestow Hiring Team
-Re: Staff Backend Engineer (Implementation and Platform Configuration)
+Beyond technical skills, I bring the collaborative mindset Bestow values. I have led engineering teams to improve delivery timelines and system observability, worked cross-functionally with product, underwriting, and external partners, and am skilled at communicating complex technical concepts in remote-first environments. I've recently explored AI-driven approaches for automated troubleshooting and knowledge retrieval—experience that directly complements your interest in agentic AI coding. I understand how my work contributes to business success and take pride in building quality systems that stakeholders can rely on.
 
-Dear Bestow Hiring Team,
-
-I'm reaching out about the Staff Backend Engineer position. With over 20 years building and owning backend systems, I'm excited about the opportunity to contribute to Bestow's mission of modernizing life insurance through technology.
-
-My background aligns closely with what you're looking for:
-
-- Go and Python expertise from building high-volume transaction services processing millions of requests monthly
-- Distributed systems experience designing reliable services across AWS and GCP
-- Microservices architecture using gRPC, REST, and async messaging patterns
-- PostgreSQL with a track record of schema design and query optimization
-- Containerized deployments with Docker and Kubernetes
-
-I also bring relevant insurance domain experience from ActiveCare, where I architected a big-data platform processing millions of insurance claims for healthcare insights. This background gives me confidence in navigating the compliance and precision requirements inherent in life insurance technology.
-
-Beyond the technical foundation, I've led teams of engineers, improved delivery timelines, and built AI-driven tooling (agents, MCP integrations) to accelerate development workflows—skills I understand are increasingly valuable as the industry evolves.
-
-I'm drawn to Bestow's combination of technical ambition (Python, Go, Drools rules engine) and meaningful domain (life insurance modernization). The remote-friendly policy and Dallas presence align with how I work best.
-
-I'd welcome the chance to discuss how my experience could benefit your team.
-
-Best regards,
-Ian Handley
+I am genuinely excited about the prospect of joining Bestow to help scale your platform and bring modern, reliable technology to an industry that critically needs it. I would welcome the opportunity to discuss how my experience building and operating distributed backend systems can contribute to your team's continued success.
