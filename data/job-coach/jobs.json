@@ -866,56 +866,57 @@
         "PostgreSQL"
       ]
     },
-    {
-      "id": "4387508921",
-      "company": "LearnLux Financial Wellbeing",
-      "title": "Senior Software Engineer",
-      "status": "applied",
-      "url": "https://www.linkedin.com/jobs/view/4387508921",
-      "location": "Denver, CO (Remote case-by-case)",
-      "salary": "$145,000 - $190,000",
-      "description": "Build backend services and systems for enterprise SaaS financial wellbeing platform. Design scalable systems, work with Node.js/Python, GCP cloud infrastructure, Pulumi/Terraform. Focus on distributed systems, multi-tenancy, AI-enabled features.",
-      "requirements": [
-        "Strong backend engineering with ownership of projects and systems",
-        "Proven experience building and maintaining scalable backend systems in SaaS",
-        "Solid understanding of distributed systems concepts and cloud infrastructure",
-        "Hands-on experience with Node.js and/or Python",
-        "Experience with cloud infrastructure, GCP preferred (AWS acceptable)",
-        "Security and compliance considerations in production systems",
-        "Experience using automation and AI-driven tools to improve developer productivity",
-        "Ability to break down complex problems and execute within defined scope",
-        "Strong collaboration and communication skills"
-      ],
-      "nice_to_have": [
-        "Experience contributing to larger architectural initiatives (multi-tenancy, platform scaling)",
-        "Experience in financial technology, regulated, or compliance-heavy enterprise SaaS",
-        "Experience in startup environment",
-        "Experience with data systems including data warehouses, pipelines, SQL/NoSQL databases"
-      ],
-      "benefits": [
-        "Remote-first company structure",
-        "Medical, dental, and vision",
-        "401(k)",
-        "Mental wellbeing (Talkspace)",
-        "Financial wellbeing (LearnLux)",
-        "Paid vacation and sick leave",
-        "Paid sabbatical after 5 years of service",
-        "Supportive, inclusive team culture"
-      ],
-      "tech_stack": [
-        "Node.js",
-        "Python",
-        "GCP",
-        "AWS",
-        "Pulumi",
-        "Terraform"
-      ],
-      "recruiter": "",
-      "contacts": [],
-      "applied_date": "2026-04-17",
-      "notes": "Strong fit - backend engineering, Node.js/Python, GCP/AWS, distributed systems all align. Financial services background (Equifax) is a plus. AI agents experience matches. Salary $145-190k.",
-      "saved_date": "2026-04-17"
-    },
+     {
+       "id": "4387508921",
+       "company": "LearnLux Financial Wellbeing",
+       "title": "Senior Software Engineer",
+       "status": "rejected",
+       "url": "https://www.linkedin.com/jobs/view/4387508921",
+       "location": "Denver, CO (Remote case-by-case)",
+       "salary": "$145,000 - $190,000",
+       "rejected_date": "2026-04-19",
+       "description": "Build backend services and systems for enterprise SaaS financial wellbeing platform. Design scalable systems, work with Node.js/Python, GCP cloud infrastructure, Pulumi/Terraform. Focus on distributed systems, multi-tenancy, AI-enabled features.",
+       "requirements": [
+         "Strong backend engineering with ownership of projects and systems",
+         "Proven experience building and maintaining scalable backend systems in SaaS",
+         "Solid understanding of distributed systems concepts and cloud infrastructure",
+         "Hands-on experience with Node.js and/or Python",
+         "Experience with cloud infrastructure, GCP preferred (AWS acceptable)",
+         "Security and compliance considerations in production systems",
+         "Experience using automation and AI-driven tools to improve developer productivity",
+         "Ability to break down complex problems and execute within defined scope",
+         "Strong collaboration and communication skills"
+       ],
+       "nice_to_have": [
+         "Experience contributing to larger architectural initiatives (multi-tenancy, platform scaling)",
+         "Experience in financial technology, regulated, or compliance-heavy enterprise SaaS",
+         "Experience in startup environment",
+         "Experience with data systems including data warehouses, pipelines, SQL/NoSQL databases"
+       ],
+       "benefits": [
+         "Remote-first company structure",
+         "Medical, dental, and vision",
+         "401(k)",
+         "Mental wellbeing (Talkspace)",
+         "Financial wellbeing (LearnLux)",
+         "Paid vacation and sick leave",
+         "Paid sabbatical after 5 years of service",
+         "Supportive, inclusive team culture"
+       ],
+       "tech_stack": [
+         "Node.js",
+         "Python",
+         "GCP",
+         "AWS",
+         "Pulumi",
+         "Terraform"
+       ],
+       "recruiter": "",
+       "contacts": [],
+       "applied_date": "2026-04-17",
+       "notes": "Rejected via email 4/19. While you have great skills, another candidate aligned better with their needs. Keep an eye on future opportunities.",
+       "saved_date": "2026-04-17"
+     },
     {
       "id": "csv-39",
       "company": "Maven",
@@ -1066,41 +1067,42 @@
         "AWS"
       ]
     },
-    {
-      "id": "csv-27",
-      "company": "Pattern",
-      "title": "Staff Software Engineer, Predict",
-      "url": "https://www.linkedin.com/jobs/view/4289114569",
-      "status": "applied",
-      "applied_date": "4/16/26",
-      "notes": "",
-      "saved_date": "2026-04-17",
-      "recruiter": "",
-      "contacts": [],
-      "location": "Remote",
-      "salary": "",
-      "description": "Two roles: Senior Software Engineer (AI experience) and Staff Software Engineer, Predict. AI-powered healthcare/insurance platform.",
-      "requirements": [
-        "5+ years backend",
-        "AI/ML integration",
-        "Healthcare domain"
-      ],
-      "nice_to_have": [
-        "AI agents",
-        "LLM experience"
-      ],
-      "benefits": [
-        "Health/dental/vision",
-        "Equity"
-      ],
-      "tech_stack": [
-        "Python",
-        "TypeScript",
-        "Node.js",
-        "PostgreSQL",
-        "AWS"
-      ]
-    },
+     {
+       "id": "csv-27",
+       "company": "Pattern",
+       "title": "Staff Software Engineer, Predict",
+       "url": "https://www.linkedin.com/jobs/view/4289114569",
+       "status": "rejected",
+       "applied_date": "4/16/26",
+       "rejected_date": "2026-04-17",
+       "notes": "Rejected via email 4/17. Other candidates' experience more closely aligned with current needs.",
+       "saved_date": "2026-04-17",
+       "recruiter": "",
+       "contacts": [],
+       "location": "Remote",
+       "salary": "",
+       "description": "Two roles: Senior Software Engineer (AI experience) and Staff Software Engineer, Predict. AI-powered healthcare/insurance platform.",
+       "requirements": [
+         "5+ years backend",
+         "AI/ML integration",
+         "Healthcare domain"
+       ],
+       "nice_to_have": [
+         "AI agents",
+         "LLM experience"
+       ],
+       "benefits": [
+         "Health/dental/vision",
+         "Equity"
+       ],
+       "tech_stack": [
+         "Python",
+         "TypeScript",
+         "Node.js",
+         "PostgreSQL",
+         "AWS"
+       ]
+     },
     {
       "id": "csv-18",
       "company": "Proofpoint",
@@ -1632,11 +1634,119 @@
     }
   ]
 },
-    {
-      "id": "paxos-48602fab",
-      "company": "Paxos",
-      "title": "Senior Software Engineer, Custody",
-      "status": "saved",
+     {
+       "id": "4401359846-lightspeed",
+       "company": "Lightspeed DMS",
+       "title": "Principal Software Engineer",
+       "status": "applied",
+       "url": "https://www.linkedin.com/jobs/view/4401359846",
+       "location": "Remote",
+       "salary": "Not specified",
+       "description": "Principal Software Engineer at Lightspeed DMS. Build automotive dealership management software.",
+       "requirements": [
+         "8+ years software engineering",
+         "System architecture",
+         "Large-scale systems"
+       ],
+       "nice_to_have": [],
+       "benefits": [
+         "Health/dental/vision",
+         "Equity"
+       ],
+       "tech_stack": [],
+       "recruiter": "",
+       "contacts": [],
+       "applied_date": "2026-04-20",
+       "notes": "Application confirmation received 4/17. Principal-level role. Limited job details available.",
+       "saved_date": "2026-04-20"
+     },
+     {
+       "id": "4401359846-omada-new",
+       "company": "Omada Health",
+       "title": "Senior Software Engineer",
+       "status": "applied",
+       "url": "https://www.linkedin.com/jobs/view/4383033956",
+       "location": "Remote (US, priority CA/NY/WA)",
+       "salary": "$179,400 - $224,300",
+       "description": "Senior Software Engineer at Omada Health. Build scalable backend systems for behavioral health platform. Work with Python, PostgreSQL, AWS, Docker, Kubernetes. Integrate AI/LLM capabilities.",
+       "requirements": [
+         "7+ years writing tested, efficient code",
+         "Ruby or Python",
+         "PostgreSQL experience",
+         "Scalable API design",
+         "CI/CD pipelines",
+         "LLM/GenAI familiarity",
+         "AWS cloud, Docker, Kubernetes"
+       ],
+       "nice_to_have": [
+         "Healthcare domain experience",
+         "Leadership/mentoring"
+       ],
+       "benefits": [
+         "Health/dental/vision",
+         "401k",
+         "Equity",
+         "Remote-first"
+       ],
+       "tech_stack": [
+         "Python",
+         "PostgreSQL",
+         "AWS",
+         "Docker",
+         "Kubernetes",
+         "LLMs",
+         "GenAI"
+       ],
+       "recruiter": "",
+       "contacts": [],
+       "applied_date": "2026-04-20",
+       "notes": "Application confirmation received 4/20. Fit score 85/100. Strong technical alignment (AWS, PostgreSQL, Docker/K8s, Python). Explicit GenAI/LLM requirement matches AI agent work. Healthcare domain adjacent to ActiveCare background.",
+       "saved_date": "2026-04-20"
+     },
+     {
+       "id": "4379472790-medallion-new",
+       "company": "Medallion",
+       "title": "Staff Software Engineer",
+       "status": "applied",
+       "url": "https://www.linkedin.com/jobs/view/4379472790",
+       "location": "Spanish Fork, UT / Remote",
+       "salary": "$190,000 - $240,000",
+       "description": "Staff Software Engineer at Medallion. Build healthcare credentialing platform. Work across multiple functional areas (frontend, backend, platform, services, data, cloud). Python/Django backend, React/TypeScript frontend.",
+       "requirements": [
+         "8+ years software engineering experience",
+         "Team mentoring/leadership experience",
+         "Multiple functional areas",
+         "Strong technical foundation",
+         "Cross-functional collaboration"
+       ],
+       "nice_to_have": [
+         "Healthcare domain experience",
+         "Startup environment"
+       ],
+       "benefits": [
+         "Health/dental/vision",
+         "401k",
+         "Equity",
+         "Remote-friendly"
+       ],
+       "tech_stack": [
+         "Python",
+         "Django",
+         "React",
+         "JavaScript",
+         "TypeScript"
+       ],
+       "recruiter": "",
+       "contacts": [],
+       "applied_date": "2026-04-20",
+       "notes": "Application confirmation received 4/20. Fit score 72/100. Staff-level seniority perfect match (20+ years exceeds 8+ requirement). Python backend aligns. Healthcare domain adjacent to ActiveCare background. Gaps: Django/React not primary skills.",
+       "saved_date": "2026-04-20"
+     },
+     {
+       "id": "paxos-48602fab",
+       "company": "Paxos",
+       "title": "Senior Software Engineer, Custody",
+       "status": "saved",
       "url": "https://jobs.ashbyhq.com/paxos/48602fab-6199-44ba-9237-08feb2d69a58",
       "location": "United States / Canada (Remote)",
       "salary": "$206,000 - $235,950",
