@@ -92,8 +92,52 @@
            "date": "2026-04-20",
            "type": "application_submitted",
            "notes": "Applied via LinkedIn"
-         }
-       ]
-     }
+      },
+      {
+        "id": "paxos-001",
+        "company": "Paxos",
+        "title": "Senior Software Engineer, Custody",
+        "location": "Spanish Fork, UT",
+        "salary": "$173,284 - $203,864/year",
+        "url": "https://www.linkedin.com/jobs/view/4294631001",
+        "apply_url": "https://www.linkedin.com/jobs/view/4294631001",
+        "status": "saved",
+        "fit_score": 92,
+        "fit_recommendation": "apply",
+        "date_added": "2026-04-20",
+        "date_applied": null,
+        "materials": {
+          "resume": "data/job-coach/paxos/resume-senior-software-engineer-custody.docx",
+          "cover_letter": "data/job-coach/paxos/cover-letter-senior-software-engineer-custody.docx",
+          "job_posting": "data/job-coach/paxos/job-posting.md"
+        },
+        "key_strengths": [
+          "Go expertise (exact requirement) - 3 years professional Go experience",
+          "Mission-critical system architecture - built systems processing millions of transactions/month at Equifax",
+          "Distributed systems design - proven track record across AWS and GCP",
+          "Cloud-native expertise - Kubernetes, Docker, containerization",
+          "High-throughput, low-latency systems - exact match to custody infrastructure requirements",
+          "Production debugging and reliability engineering - strong track record optimizing complex systems",
+          "Team leadership - 2+ years leading engineers, mentoring, code reviews",
+          "Perfect location fit - already in Spanish Fork, UT",
+          "Security-focused mindset - built systems handling sensitive financial transactions",
+          "Cross-functional collaboration - worked effectively with product, compliance, infrastructure teams"
+        ],
+        "key_gaps": [
+          "No blockchain/crypto specific experience (but foundation is extremely strong)",
+          "No custody platform experience (but distributed systems expertise transfers directly)",
+          "Rust not in primary skill set (job values Go primarily anyway)"
+        ],
+        "notes": "Excellent fit (92/100). Perfect alignment on tech stack (Go, AWS/GCP, Kubernetes, distributed systems). Experience building mission-critical, high-throughput systems directly applicable to custody infrastructure. Location is ideal match. Ready to apply.",
+        "interactions": [
+          {
+            "date": "2026-04-20",
+            "type": "job_prepared",
+            "notes": "Tailored resume and cover letter generated. Job details extracted and saved. Materials exported to DOCX."
+          }
+        ]
+      }
+   ]
+}
   ]
 }

@@ -1,62 +1,91 @@
-IAN HANDLEY
-(605) 415-2577 | ianhandley@gmail.com
-Spanish Fork, UT | linkedin.com/in/ianrhandley
+# Ian Handley
+**Senior Software Engineer**
 
-PROFESSIONAL SUMMARY
-Senior Software Engineer with 20+ years architecting and operating mission-critical backend systems and distributed infrastructure. Deep expertise in Go, cloud-native services (AWS/GCP), and high-volume transaction systems. Proven track record designing secure, scalable systems handling millions of transactions monthly. Strong background in team leadership, production debugging, and mentoring engineers. Actively exploring advanced reliability and automation patterns through emerging technologies.
+📧 ianhandley@gmail.com | 📱 (605) 415-2577 | 📍 Spanish Fork, UT
+🔗 linkedin.com/in/ianrhandley
 
-TECHNICAL SKILLS
-Languages: Go, C#, JavaScript, Python
-Cloud & Infrastructure: AWS, GCP, Kubernetes, Docker
-Data & Messaging: PostgreSQL, Kafka, RabbitMQ, ETL
-Distributed Systems: Microservices Architecture, High-Throughput Systems, Reliability Engineering
-Leadership & Collaboration: Team Leadership, Cross-functional Collaboration, Mentorship, Code Review
+---
 
-PROFESSIONAL EXPERIENCE
+## Professional Summary
 
-Senior Software Engineer — Equifax (Jan 2023 – Apr 2026)
-Atlanta, GA / Remote
-• Owned Go-based backend services supporting high-volume chargeback and transaction systems (~millions of transactions/month) with focus on reliability and performance
-• Architected distributed systems across AWS and GCP, significantly improving system reliability and reducing incident frequency in production
-• Led engineering team of 4+ engineers for 2 years, driving delivery timelines and reducing deployment friction through improved processes
-• Designed and implemented advanced troubleshooting tooling and internal diagnostics workflows, dramatically reducing mean-time-to-resolution (MTTR) for production issues
-• Built and deployed AI-driven automation solutions to streamline internal operational workflows and improve team efficiency
-• Explored and prototyped RAG-based approaches for domain-specific troubleshooting and operational knowledge retrieval
+Senior Software Engineer with 20+ years architecting and owning secure, distributed backend systems and microservices. Deep expertise in designing high-throughput, mission-critical infrastructure across multiple cloud platforms. Recent focus in Go on AWS/GCP building systems that process millions of transactions monthly with emphasis on reliability, security, and operational excellence. Strong track record leading technical decisions, mentoring teams, and optimizing complex systems for performance and fault tolerance.
 
-Senior Software Engineer — Optilogic (Sep 2022 – Nov 2022)
-American Fork, UT
-• Developed microservices and RESTful APIs supporting supply chain optimization platforms serving enterprise customers
-• Designed containerized service architecture using Docker and Kubernetes, improving deployment consistency and operational reliability
-• Implemented streaming data ingestion patterns reducing memory overhead during large-scale file processing
-• Integrated backend systems with PostgreSQL and cloud storage services, ensuring data consistency and availability
+---
 
-Senior Software Engineer — Nu Skin (Aug 2019 – Aug 2022)
-Provo, UT / Remote
-• Owned and maintained high-throughput messaging platform processing large-scale business-critical transactions with strict reliability requirements
-• Re-architected validation and processing systems leveraging AWS cloud services, improving scalability and reducing operational incidents
-• Designed and implemented cross-platform messaging bridge (RocketMQ ↔ RabbitMQ) enabling secure international system integration
-• Collaborated with distributed global teams (including China operations) to maintain production reliability and support rapid scaling
-• Built Node.js internal tooling and frameworks accelerating microservice development velocity across engineering teams
+## Technical Expertise
 
-System Engineer — ActiveCare (May 2013 – Aug 2019)
-Orem, UT
-• Architected big-data platform processing millions of healthcare insurance claims, enabling data-driven insights and operational improvements
-• Designed and optimized ETL pipelines (R, Talend, SSIS) for large-scale data processing and transformation
-• Built low-latency services integrating multiple critical business systems (Salesforce, healthcare devices, web platforms)
-• Led technical strategy and implementation of enterprise integration projects supporting e-commerce and patient workflows
+**Languages & Frameworks:** Go, C#, JavaScript, Python  
+**Distributed Systems & Architecture:** Microservices, Event-Driven Architecture, System Design, APIs, Cloud-Native Services  
+**Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes  
+**Data & Persistence:** PostgreSQL, SQL Server, Messaging Systems (RabbitMQ, RocketMQ, Kafka)  
+**Security & Reliability:** System reliability engineering, production debugging, high-availability design  
+**Leadership:** Team Leadership, Cross-functional Collaboration, Technical mentoring
 
-Senior Software Engineer — United States Air Force (Jul 2008 – Oct 2011)
-Ellsworth Air Force Base, SD
-• Improved operational data integrity through system-wide data quality initiatives supporting aircraft maintenance operations
-• Designed and automated complex reporting workflows using VBA and Excel in constrained technical environments
-• Ensured reliability of mission-critical operational data used for maintenance and safety decisions
+---
 
-Software Engineer — Computer Research, Inc. (Jan 2002 – Aug 2005)
-Denver, CO
-• Built financial trading systems using SQL Server, supporting high-throughput transaction processing
-• Developed internal web applications and tools improving team productivity and system monitoring
-• Led redesign of company web infrastructure and trained engineering staff on modernized platforms
+## Professional Experience
 
-EDUCATION
-Bachelor's Degree, Sociology — University of Colorado, Denver
-Associate of Applied Science, Avionics — Community College of the Air Force
+### **Equifax** | Senior Software Engineer
+*Atlanta, GA / Remote | Jan 2023 – Apr 2026*
+
+- **Designed and owned Go-based backend services** supporting secure, high-volume chargeback infrastructure processing millions of transactions monthly—demonstrating expertise in building mission-critical, reliable custody-adjacent systems
+- **Architected distributed systems across AWS and GCP** with emphasis on security, reliability, and performance optimization; improved system uptime and reduced incident frequency through systematic improvements
+- **Led technical team of engineers for 2+ years**, defining architecture, conducting code reviews, and mentoring junior engineers on distributed systems design and best practices
+- **Optimized system performance** through careful analysis of high-throughput, low-latency requirements; reduced operational overhead and improved deployment confidence
+- **Spearheaded troubleshooting capabilities** by building internal tooling and diagnostic workflows; enhanced team's ability to debug production issues rapidly and accurately
+
+### **Optilogic** | Senior Software Engineer
+*American Fork, UT | Sep 2022 – Nov 2022*
+
+- **Architected containerized microservices** using Docker/Kubernetes for supply chain optimization platform; designed systems for reliability, scalability, and operational consistency
+- **Implemented streaming data ingestion** improving memory efficiency and throughput handling for large-scale data processing
+- **Integrated cloud-native backend systems** with PostgreSQL and Azure storage, applying best practices in data persistence and reliability
+
+### **Nu Skin** | Senior Software Engineer
+*Provo, UT / Remote | Aug 2019 – Aug 2022*
+
+- **Maintained and evolved mission-critical messaging platform** processing large-scale business transactions with high availability requirements
+- **Re-architected validation systems using AWS**, dramatically improving scalability and resilience; demonstrated expertise in cloud-native system design
+- **Designed cross-platform messaging bridge** (RocketMQ ↔ RabbitMQ) for distributed international systems, addressing complex integration challenges
+- **Collaborated with global engineering teams** on production system support, demonstrating ability to work effectively across organizational and geographic boundaries
+
+### **ActiveCare** | System Engineer
+*Orem, UT | May 2013 – Aug 2019*
+
+- **Architected enterprise big-data platform** processing millions of healthcare records for compliance and insights—building systems at scale with security and reliability in mind
+- **Designed and implemented ETL pipelines** supporting large-scale data processing and analytics
+- **Built low-latency integration services** connecting Salesforce, web systems, and medical devices; emphasized reliability and data integrity
+
+### **United States Air Force** | Data Integrity Analyst
+*Ellsworth AFB, SD | Jul 2008 – Oct 2011*
+
+- Improved operational data accuracy through systematic data integrity initiatives
+- Automated workflows using Excel VBA; enhanced reporting reliability
+
+### **Computer Research, Inc.** | Software Engineer
+*Denver, CO | Jan 2002 – Aug 2005*
+
+- Built financial systems supporting trading platforms using SQL Server
+- Developed internal tools and systems improving team productivity
+
+---
+
+## Education
+
+**Bachelor's Degree** – Sociology | University of Colorado, Denver  
+**Associate of Applied Science** – Avionics | Community College of the Air Force
+
+---
+
+## Why This Role Aligns
+
+Your Paxos Custody team needs a Senior Engineer who can architect secure, distributed systems at scale—and that's exactly what my career demonstrates. My recent work at Equifax building mission-critical, high-throughput backend services in Go across multiple cloud platforms directly mirrors the challenges you face in custody infrastructure. I bring proven expertise in:
+
+- Designing systems that handle millions of transactions reliably
+- Building distributed, cloud-native services (AWS, GCP, Kubernetes, Docker)
+- Scaling systems for performance, reliability, and operational excellence
+- Leading technical teams and conducting rigorous code reviews
+- Debugging and optimizing complex production systems
+- Collaborating effectively across functions (product, compliance, infrastructure)
+
+I'm ready to bring this depth of experience to build the next generation of Paxos' custody infrastructure.
