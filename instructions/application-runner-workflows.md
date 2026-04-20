@@ -73,7 +73,7 @@ If the user wants help filling an application form:
 1. Load the saved resume if available
 2. Use job-coach-application-form-populate
 3. Return structured form-ready data
-4. If needed, use that data to fill browser form fields
+4. Always use that data to fill browser form fields
 5. Warn about any fields that still need manual input
 
 ## Application Form Answer Workflow

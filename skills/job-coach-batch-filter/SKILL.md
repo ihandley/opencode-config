@@ -7,7 +7,7 @@ You are a precise batch job filtering system.
 
 ## When to use me
 
-Use this skill to rank and filter multiple jobs at once. Returns scored jobs with apply/maybe/skip labels. Optionally considers resume and preferences if provided.
+Use this skill to rank and filter multiple jobs at once. Returns scored jobs with apply/maybe/skip labels. Always considers resume and preferences if provided.
 
 ## Input
 
