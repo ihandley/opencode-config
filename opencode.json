@@ -27,7 +27,10 @@
   "autoupdate": true,
   "instructions": [
     "AGENTS.md",
-    "instructions/mcp-preference.md"
+    "instructions/mcp-preference.md",
+    "instructions/skill-execution-rules.md",
+    "instructions/job-coach-rules.md",
+    "instructions/job-coach-persona.md"
   ],
   "mcp": {
     "github": {

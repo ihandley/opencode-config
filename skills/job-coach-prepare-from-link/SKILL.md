@@ -49,15 +49,62 @@ Use this skill as the main entry point for job preparation. Pass a job URL, get 
 
 1. Fetch job page (prefer browser fetcher for LinkedIn)
 2. Extract structured job data
-3. Save/update job in tracker
-4. Load saved resume
-5. Evaluate job fit
-6. Create tailored resume version
-7. Export to DOCX (unless user requests otherwise)
-8. Create cover letter if appropriate
-9. Export cover letter to DOCX
-10. Find apply URL
-11. Return result
+3. Load base resume from `data/job-coach/resume.json`
+4. Evaluate job fit against resume skills and experience
+5. Create company subdirectory: `data/job-coach/{company}/`
+6. Generate tailored resume (markdown) highlighting relevant experience
+7. Generate cover letter (markdown) if fit is "apply" or "maybe"
+8. **Convert markdown to DOCX formatting** (headings, bold, italic, lists, etc.) with no markdown characters visible
+9. Export both to DOCX using baseline template styling with proper formatting applied
+10. Save job posting details to `data/job-coach/{company}/job-posting.md`
+11. Update job tracker in `data/job-coach/jobs/jobs.json`
+12. Find apply URL
+13. Return result with file paths and recommendation
+
+## Resume Configuration
+
+**Primary Resume Source**: `data/job-coach/resume.json`
+
+This is a structured JSON file containing:
+- Personal info (name, email, phone, location)
+- Professional summary
+- Skills (array of competencies)
+- Work experience (company, title, dates, bullets)
+- Education
+- Certifications
+
+**Baseline Reference Files**:
+- `data/job-coach/baseline-resume.docx` - DOCX template for export formatting
+- `data/job-coach/baseline-resume.pdf` - PDF reference
+
+## File Structure
+
+All files are stored locally in the `data/job-coach/` directory:
+
+```
+data/job-coach/
+├── resume.json                          # Primary resume (structured data)
+├── baseline-resume.docx                 # DOCX template for exports
+├── baseline-resume.pdf                  # PDF reference
+├── {company}/                           # Company-specific subdirectory
+│   ├── {company}_{title}.md             # Tailored resume (markdown)
+│   ├── {company}_resume_{title}.docx    # Tailored resume (DOCX export)
+│   ├── {company}_{title}.md             # Cover letter (markdown)
+│   ├── {company}_cover-letter_{title}.docx  # Cover letter (DOCX export)
+│   └── job-posting.md                   # Saved job posting details
+└── jobs/                                # Job tracker database
+    └── jobs.json                        # Tracked jobs metadata
+```
+
+**Example**: For Bestow Staff Backend Engineer position:
+```
+data/job-coach/bestow/
+├── bestow_staff-backend-engineer.md
+├── bestow_resume_staff-backend-engineer.docx
+├── bestow_staff-backend-engineer.md
+├── bestow_cover-letter_staff-backend-engineer.docx
+└── job-posting.md
+```
 
 ## Rules
 
@@ -68,3 +115,19 @@ Use this skill as the main entry point for job preparation. Pass a job URL, get 
 - fit_recommendation must be: apply, maybe, skip
 - fit_score must be 0-100
 - Export defaults to DOCX unless explicitly overridden
+- All file paths should be relative to project root (`~/code/github/opencode/`)
+- Create directories as needed if they don't exist
+- Use consistent naming for exported files: `{company}_{type}_{title}.{ext}` where:
+  - `{company}` = lowercase company name (e.g., `bestow`, `cribl`)
+  - `{type}` = `resume` or `cover-letter`
+  - `{title}` = lowercase position title with hyphens (e.g., `staff-backend-engineer`, `sr-search-federation`)
+  - Example: `bestow_resume_staff-backend-engineer.docx`, `cribl_cover-letter_sr-search-federation.docx`
+- **CRITICAL:** Convert markdown to DOCX formatting (not plain text):
+  - Heading markers (`#`, `##`, `###`) → Apply H1, H2, H3 styles
+  - Bold markers (`**text**`) → Apply bold formatting to text
+  - Italic markers (`*text*`, `_text_`) → Apply italic formatting to text
+  - Strikethrough (`~~text~~`) → Apply strikethrough formatting
+  - Inline code (`` `code` ``) → Apply monospace/code formatting
+  - Bullet/numbered lists → Apply list formatting
+  - Preserve line breaks and paragraph structure
+  - Result should be professionally formatted with NO markdown syntax characters visible

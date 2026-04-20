@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "4398299818",
+      "company": "Cribl",
+      "title": "Sr Software Engineer, Search Federation",
+      "url": "https://www.linkedin.com/jobs/view/4398299818",
+      "status": "applied",
+      "applied_date": "2026-04-20",
+      "location": "Spanish Fork, UT (Remote-first)",
+      "salary": "$175,000 - $210,000",
+      "description": "Backend-focused Senior Software Engineer role expanding Cribl Search federation with 3rd-party providers. Experience building search, query and analytic systems. Distributed systems, data structures, AWS/Lambda expertise required.",
+      "requirements": [
+        "Backend system development experience",
+        "Search, query, and/or analytic systems experience",
+        "Data structures and algorithms",
+        "AWS, Lambda, cloud infrastructure",
+        "Distributed systems development at scale",
+        "Agile and rapid iterative development",
+        "TypeScript/JavaScript, NodeJS, SQL",
+        "Remote work experience",
+        "Self-starter with strong problem-solving"
+      ],
+      "nice_to_have": [
+        "Frontend development experience (5-10%)",
+        "Query languages and performance optimization",
+        "Experience with query optimization"
+      ],
+      "benefits": [
+        "Health, dental, vision insurance",
+        "Paid holidays and PTO",
+        "401(k) and equity",
+        "Fertility treatment benefit",
+        "Remote-first culture"
+      ],
+      "recruiter": "",
+      "contacts": [],
+      "notes": "Remote-first, mid-senior level. Focus on distributed query federation. Apply URL button available on LinkedIn page.",
+      "saved_date": "2026-04-20",
+      "fit_score": 88,
+      "fit_recommendation": "apply",
+      "key_strengths": [
+        "20+ years backend systems experience with recent Go focus on AWS/GCP",
+        "Expert in distributed systems architecture and performance optimization",
+        "Direct experience with high-volume transaction systems and query optimization",
+        "Led teams and improved delivery processes",
+        "Remote-first experience with global collaboration",
+        "Strong system design and observability practices"
+      ],
+      "key_gaps": [
+        "Limited frontend development experience (role only requires 5-10%)",
+        "No specific search/Lucene/Elasticsearch experience mentioned",
+        "No query language optimization background (but strong algorithmics foundation)"
+      ]
+    },
+    {
       "id": "4398052153",
       "company": "Ad Hoc LLC",
       "title": "Principal Software Engineer",
@@ -1417,6 +1470,225 @@
       "notes": "Strong fit - enterprise architecture, SDLC focus aligns with backend experience. TOGAF is nice-to-have. Hybrid Midvale (new tech campus). RE-APPLIED with corrected resume (initial submission missing ActiveCare, US Air Force, and other experience).",
       "interaction_notes": "Applied with tailored resume + cover letter",
       "saved_date": "2026-04-17"
+    },
+    {
+      "id": "4383033956",
+      "company": "Omada Health",
+      "title": "Senior Software Engineer",
+      "status": "applied",
+      "url": "https://www.linkedin.com/jobs/view/4383033956",
+      "location": "Remote (US, priority CA/NY/WA)",
+      "salary": "$179,400 - $224,300",
+      "description": "Senior Software Engineer at Omada Health. Build scalable backend systems for behavioral health platform. Work with Python, PostgreSQL, AWS, Docker, Kubernetes. Integrate AI/LLM capabilities.",
+      "requirements": [
+        "7+ years writing tested, efficient code",
+        "Ruby or Python",
+        "PostgreSQL experience",
+        "Scalable API design",
+        "CI/CD pipelines",
+        "LLM/GenAI familiarity",
+        "AWS cloud, Docker, Kubernetes"
+      ],
+      "nice_to_have": [
+        "Healthcare domain experience",
+        "Leadership/mentoring"
+      ],
+      "benefits": [
+        "Health/dental/vision",
+        "401k",
+        "Equity",
+        "Remote-first"
+      ],
+      "tech_stack": [
+        "Python",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "LLMs",
+        "GenAI"
+      ],
+      "recruiter": "",
+      "contacts": [],
+      "applied_date": "2026-04-19",
+      "notes": "Fit score 85/100. Strong technical alignment (AWS, PostgreSQL, Docker/K8s, Python). Explicit GenAI/LLM requirement matches recent AI agent work at Equifax. Healthcare domain adjacent to ActiveCare background. Applied with tailored resume and cover letter.",
+      "saved_date": "2026-04-19"
+    },
+    {
+      "id": "4379472790",
+      "company": "Medallion",
+      "title": "Staff Software Engineer",
+      "status": "applied",
+      "url": "https://www.linkedin.com/jobs/view/4379472790",
+      "location": "Spanish Fork, UT / Remote",
+      "salary": "$190,000 - $240,000",
+      "description": "Staff Software Engineer at Medallion. Build healthcare credentialing platform. Work across multiple functional areas (frontend, backend, platform, services, data, cloud). Python/Django backend, React/TypeScript frontend.",
+      "requirements": [
+        "8+ years software engineering experience",
+        "Team mentoring/leadership experience",
+        "Multiple functional areas",
+        "Strong technical foundation",
+        "Cross-functional collaboration"
+      ],
+      "nice_to_have": [
+        "Healthcare domain experience",
+        "Startup environment"
+      ],
+      "benefits": [
+        "Health/dental/vision",
+        "401k",
+        "Equity",
+        "Remote-friendly"
+      ],
+      "tech_stack": [
+        "Python",
+        "Django",
+        "React",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "recruiter": "",
+      "contacts": [],
+      "applied_date": "2026-04-19",
+      "notes": "Fit score 72/100. Staff-level seniority perfect match (20+ years exceeds 8+ requirement). Python backend aligns. Healthcare domain adjacent to ActiveCare background. Gaps: Django/React not primary skills. Applied with tailored resume and cover letter. Answered application questions.",
+      "saved_date": "2026-04-19"
+    },
+    {
+      "id": "4393937496",
+      "company": "limitless",
+      "title": "Staff Backend Developer",
+      "status": "applied",
+      "url": "https://www.linkedin.com/jobs/view/4393937496",
+      "location": "Remote (US) / Austin, TX",
+      "salary": "$180,000 - $220,000 + equity",
+      "description": "Staff Backend Developer at limitless. Build imagery and analytics platform. Strong Python (FastAPI, Pydantic, SQLAlchemy), PostgreSQL, RESTful API design, autonomous work, CI/CD, AWS/GCP.",
+      "requirements": [
+        "Strong Python (FastAPI, Pydantic, SQLAlchemy)",
+        "PostgreSQL experience",
+        "RESTful API design",
+        "Autonomous work, ownership",
+        "CI/CD pipelines",
+        "AWS/GCP cloud",
+        "SaaS company experience"
+      ],
+      "nice_to_have": [],
+      "benefits": [
+        "Health/dental/vision",
+        "Equity",
+        "Remote-first"
+      ],
+      "tech_stack": [
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "AWS/GCP",
+        "CI/CD"
+      ],
+      "recruiter": "",
+      "contacts": [],
+      "applied_date": "2026-04-19",
+      "notes": "Fit score 78/100. Strong backend/distributed systems alignment. PostgreSQL and cloud infrastructure (AWS/GCP) are core competencies. Autonomous ownership matches senior engineer expectations. Gap: FastAPI/Pydantic/SQLAlchemy stack unfamiliar but learnable. Applied with tailored resume and cover letter.",
+      "saved_date": "2026-04-19"
+    },
+    {
+      "id": "4352274849",
+      "company": "PushPress",
+      "title": "Senior Software Engineer, Product",
+      "status": "applied",
+      "url": "https://www.linkedin.com/jobs/view/4352274849",
+      "location": "Remote (US)",
+      "salary": "Not specified",
+      "description": "Senior Software Engineer, Product at PushPress. Build AI-powered gym management platform. Full-stack JavaScript/TypeScript/Node.js/Express/React/Next.js. AI/data-driven product experience.",
+      "requirements": [
+        "5-10 years full-stack web development",
+        "JavaScript, TypeScript, Node.js, Express, React, Next.js",
+        "AI/data-driven product experience (plus)",
+        "Backend development, databases, 3rd-party integrations",
+        "Shipping products at scale"
+      ],
+      "nice_to_have": [
+        "AI/agentic systems experience"
+      ],
+      "benefits": [
+        "Health/dental/vision",
+        "Equity",
+        "Remote-first"
+      ],
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "React",
+        "Next.js"
+      ],
+      "recruiter": "",
+      "contacts": [],
+      "applied_date": "2026-04-19",
+      "notes": "Fit score 58/100. Stretch role - JavaScript/TypeScript/React/Node stack misalignment with Go/C#/Python expertise. AI/product thinking strong but tech stack is not primary wheelhouse. Series B growth is positive. Applied with tailored resume and cover letter. Answered motivation question.",
+      "saved_date": "2026-04-19"
     }
   ]
-}
+},
+    {
+      "id": "paxos-48602fab",
+      "company": "Paxos",
+      "title": "Senior Software Engineer, Custody",
+      "status": "saved",
+      "url": "https://jobs.ashbyhq.com/paxos/48602fab-6199-44ba-9237-08feb2d69a58",
+      "location": "United States / Canada (Remote)",
+      "salary": "$206,000 - $235,950",
+      "description": "Design, develop, and maintain mission-critical custody systems across multiple blockchains. Collaborate with cross-functional teams to define system architecture. Ensure reliability, security, and scalability through best practices. Optimize infrastructure for performance and latency. Mentor junior engineers. Stay informed on blockchain and distributed systems trends.",
+      "requirements": [
+        "5+ years software engineering experience in fast-paced environments",
+        "Proficiency in Golang or Java (Kotlin, Rust, Python, C++ also valued)",
+        "Computer science fundamentals: data structures, algorithms, distributed systems",
+        "Cloud-native services: Kubernetes, Docker, Kafka, AWS",
+        "Strong debugging and production problem-solving skills",
+        "Excellent collaboration and communication",
+        "Experience with high-throughput, low-latency systems (strong plus)",
+        "Trading infrastructure, cryptography, or custody platforms (strong plus)"
+      ],
+      "nice_to_have": [
+        "Blockchain/custody platform experience",
+        "Cryptography expertise",
+        "Trading infrastructure background"
+      ],
+      "benefits": [
+        "Competitive salary and equity",
+        "Health, dental, vision insurance",
+        "401(k)",
+        "Remote-first culture"
+      ],
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Kubernetes",
+        "Docker",
+        "Kafka",
+        "AWS",
+        "Distributed Systems",
+        "Blockchain"
+      ],
+      "recruiter": "",
+      "contacts": [],
+      "applied_date": "",
+      "notes": "Excellent fit - 92/100 match. Go expertise with high-volume transaction systems (Equifax chargeback platform). Distributed systems and AWS/GCP architecture directly align. Team leadership and production debugging experience match. Key gaps: no explicit blockchain/custody experience, limited recent Java, cryptography not mentioned. Tailored resume and cover letter generated.",
+      "saved_date": "2026-04-20",
+      "fit_score": 92,
+      "fit_recommendation": "apply",
+      "key_strengths": [
+        "Go proficiency with high-volume transaction systems (Equifax chargeback platform)",
+        "Deep distributed systems and architecture expertise across AWS/GCP",
+        "Hands-on team leadership and mentorship (led engineers for 2+ years)",
+        "Production system debugging and optimization in mission-critical environments",
+        "Cloud-native service design (Kubernetes, Docker, microservices)"
+      ],
+      "key_gaps": [
+        "No explicit blockchain/custody platform experience (though distributed systems foundation is solid)",
+        "Limited recent Java exposure (role lists Java as preferred alternative)",
+        "Cryptography not explicitly mentioned in work history"
+      ]
+    }

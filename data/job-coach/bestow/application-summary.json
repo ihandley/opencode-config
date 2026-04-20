@@ -1,0 +1,160 @@
+{
+  "company": "Bestow",
+  "title": "Staff Backend Engineer (Implementation and Platform Configuration)",
+  "location": "Dallas, TX (Remote)",
+  "salary": "$190,000 - $225,000/year",
+  "position_type": "Full-time",
+  "date_posted": "Mar 5, 2026",
+  
+  "fit_evaluation": {
+    "fit_score": 95,
+    "fit_recommendation": "apply",
+    "confidence": "very_high",
+    "summary": "Exceptional match. You exceed core requirements by 3x in experience, possess exact tech stack (Go, Python, PostgreSQL, GCP, Kubernetes), and uniquely address their agentic AI coding requirement."
+  },
+  
+  "key_strengths": [
+    "24+ years backend development (vs 8+ required)",
+    "Go expertise - owned production systems at scale on GCP (Equifax)",
+    "Python proficiency - demonstrated across multiple roles",
+    "PostgreSQL and relational database design",
+    "Kubernetes and Docker - designed containerized systems (Optilogic)",
+    "GCP experience - exact platform match for their infrastructure",
+    "Distributed systems and microservices architecture",
+    "gRPC and REST API design",
+    "Async messaging patterns (RabbitMQ, RocketMQ at Nu Skin)",
+    "Leadership experience - led backend teams for 2+ years",
+    "Remote work expertise - 3+ years distributed teams (Equifax, Nu Skin)",
+    "Agentic AI coding - built AI agents and MCP integrations (UNIQUE)",
+    "Operational excellence - reduced troubleshooting time 40%",
+    "Insurance domain familiarity - managed claims data at ActiveCare"
+  ],
+  
+  "key_gaps": [
+    "No Java experience (explicitly marked as 'nice to have' in job posting)",
+    "Limited direct Drools rules engine experience (learnable with strong Java fundamentals)",
+    "No current life insurance platform-specific experience (but demonstrated ability to learn domains quickly)"
+  ],
+  
+  "fit_analysis": {
+    "must_have_requirements": {
+      "years_experience": "✓ 24+ years (requirement: 8+)",
+      "go_proficiency": "✓ Expert (owned production systems)",
+      "python_proficiency": "✓ Proficient (multiple roles)",
+      "docker_comfort": "✓ Designed containerized systems",
+      "distributed_systems": "✓ Core expertise across career",
+      "postgresql_databases": "✓ Direct experience (Optilogic, ActiveCare)",
+      "api_design": "✓ gRPC and REST APIs",
+      "build_deploy_operate": "✓ Entire career foundation"
+    },
+    "preferred_requirements": {
+      "kubernetes_gcp": "✓ Owned services on GCP Kubernetes (exact match)",
+      "remote_communication": "✓ 3+ years distributed teams",
+      "leadership": "✓ Led engineering team 2+ years",
+      "code_quality": "✓ System engineer background",
+      "observability": "✓ Reduced troubleshooting 40%",
+      "proactive_collaboration": "✓ Cross-functional teams across career"
+    },
+    "bonus_requirements": {
+      "agentic_ai_coding": "✓ Built AI agents and MCP integrations (EXCEEDS expectation)"
+    }
+  },
+  
+  "tech_stack_alignment": {
+    "golang": "Expert",
+    "python": "Proficient",
+    "java": "Not applicable (nice to have)",
+    "drools_rules_engine": "Not applicable (learnable)",
+    "postgresql": "Proficient",
+    "grpc": "Proficient",
+    "rest_apis": "Expert",
+    "async_messaging": "Proficient",
+    "kubernetes": "Proficient",
+    "gcp": "Proficient",
+    "docker": "Proficient"
+  },
+  
+  "files_created": {
+    "job_posting": {
+      "path": "~/code/github/opencode/data/job-coach/bestow/job-posting.md",
+      "format": "Markdown",
+      "size": "~3 KB"
+    },
+    "tailored_resume_markdown": {
+      "path": "~/code/github/opencode/data/job-coach/bestow/resume-staff-backend-engineer.md",
+      "format": "Markdown",
+      "size": "~5 KB",
+      "highlights": "Go and distributed systems expertise, GCP experience, team leadership, agentic AI work"
+    },
+    "tailored_resume_docx": {
+      "path": "~/code/github/opencode/data/job-coach/bestow/resume-staff-backend-engineer.docx",
+      "format": "DOCX (Microsoft Word)",
+      "size": "~13 KB",
+      "ready_to_submit": true
+    },
+    "cover_letter_markdown": {
+      "path": "~/code/github/opencode/data/job-coach/bestow/cover-letter-staff-backend-engineer.md",
+      "format": "Markdown",
+      "size": "~3 KB",
+      "themes": "Backend scale, distributed systems, team leadership, agentic AI, remote collaboration"
+    },
+    "cover_letter_docx": {
+      "path": "~/code/github/opencode/data/job-coach/bestow/cover-letter-staff-backend-engineer.docx",
+      "format": "DOCX (Microsoft Word)",
+      "size": "~12 KB",
+      "ready_to_submit": true
+    }
+  },
+  
+  "application_details": {
+    "apply_url": "https://jobs.ashbyhq.com/bestow/de327351-e72b-4241-8138-a76191eb140a?locationId=63c6ec46-0867-4cbf-9f39-c1a208184b62",
+    "direct_apply_available": true,
+    "posting_url": "~/code/github/opencode/data/job-coach/bestow/job-posting.md"
+  },
+  
+  "next_steps": [
+    {
+      "step": 1,
+      "action": "Review the tailored resume (DOCX) to ensure all technical details are current and accurate",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "step": 2,
+      "action": "Review the cover letter for tone and ensure it resonates with your voice",
+      "estimated_time": "5 minutes"
+    },
+    {
+      "step": 3,
+      "action": "Submit application via Ashby (direct apply enabled) using resume-staff-backend-engineer.docx",
+      "estimated_time": "2 minutes",
+      "url": "https://jobs.ashbyhq.com/bestow/de327351-e72b-4241-8138-a76191eb140a?locationId=63c6ec46-0867-4cbf-9f39-c1a208184b62"
+    },
+    {
+      "step": 4,
+      "action": "Optional: Send cover letter via email if recruiting contact becomes available",
+      "estimated_time": "varies"
+    }
+  ],
+  
+  "application_strategy": {
+    "strength": "Exceptional technical fit - Go, Python, PostgreSQL, GCP, Kubernetes all match exactly",
+    "differentiation": "Your agentic AI work directly addresses their 'proven track record with Agentic AI coding' requirement - few candidates will have this",
+    "tone": "Confident but not arrogant - acknowledge Bestow's mission and demonstrate genuine interest in modernizing insurance infrastructure",
+    "messaging": "Position yourself as someone who can both contribute immediately (exact tech stack) and grow into longer-term technical leadership",
+    "risk_mitigation": "Address Java gap proactively if asked - your strong fundamentals and track record of learning quickly makes this non-issue"
+  },
+  
+  "warnings": [],
+  
+  "metadata": {
+    "created_date": "2026-04-19",
+    "resume_version": "tailored-staff-backend-engineer",
+    "candidate_name": "Ian Handley",
+    "candidate_email": "ianhandley@gmail.com",
+    "candidate_location": "Spanish Fork, UT",
+    "years_experience": "24+",
+    "career_stage": "Staff/Senior level",
+    "remote_preference": "Full remote",
+    "job_coach_status": "Application materials complete - ready to submit"
+  }
+}
