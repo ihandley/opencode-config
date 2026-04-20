@@ -57,7 +57,7 @@ Use this skill as the main entry point for job preparation. Pass a job URL, get 
 8. **Convert markdown to DOCX formatting** (headings, bold, italic, lists, etc.) with no markdown characters visible
 9. Export both to DOCX using baseline template styling with proper formatting applied
 10. Save job posting details to `data/job-coach/{company}/job-posting.md`
-11. Update job tracker in `data/job-coach/jobs/jobs.json`
+11. Update job tracker in `data/job-coach/jobs.json`
 12. Find apply URL
 13. Return result with file paths and recommendation
 
@@ -117,7 +117,7 @@ data/job-coach/bestow/
 - Export defaults to DOCX unless explicitly overridden
 - All file paths should be relative to project root (`~/code/github/opencode/`)
 - Create directories as needed if they don't exist
-- Use consistent naming for exported files: `{company}_{type}_{title}.{ext}` where:
+- Use consistent naming for exported files: `{company}_{type}.{ext}` where:
   - `{company}` = lowercase company name (e.g., `bestow`, `cribl`)
   - `{type}` = `resume` or `cover-letter`
   - `{title}` = lowercase position title with hyphens (e.g., `staff-backend-engineer`, `sr-search-federation`)
