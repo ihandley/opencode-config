@@ -155,7 +155,7 @@
       "company": "Assured",
       "title": "Staff Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/assured/edfac3ab-28ff-47a5-b985-c12c1e5502c5/application?utm_source=PLr9GYa24A",
-      "status": "applied",
+      "status": "under_review",
       "applied_date": "4/16/26",
       "notes": "",
       "saved_date": "2026-04-17",
@@ -177,13 +177,15 @@
         "Node.js",
         "AWS",
         "PostgreSQL"
-      ]
+      ],
+      "last_email_date": "2026-04-16",
+      "last_email_note": "Application received, team reviewing"
     },
     {
       "id": "bestow-d280f2da",
       "company": "Bestow",
       "title": "Staff Backend Engineer (Implementation and Platform Configuration)",
-      "status": "applied",
+      "status": "under_review",
       "url": "https://jobs.ashbyhq.com/bestow/de327351-e72b-4241-8138-a76191eb140a",
       "location": "Remote or Hybrid (US)",
       "salary": "$190,000 - $225,000",
@@ -225,7 +227,9 @@
       "contacts": [],
       "applied_date": "2026-04-17",
       "notes": "Strong match - Go expertise, Python, distributed systems, microservices, PostgreSQL, API design all align. 20+ years exceeds 8+ requirement. Insurance domain (ActiveCare) is a plus. AI agents experience is a bonus. Remote-friendly. Salary $190-225k. Fit Score 88/100.",
-      "saved_date": "2026-04-17"
+      "saved_date": "2026-04-17",
+      "last_email_date": "2026-04-20",
+      "last_email_note": "Application received, human review in progress"
     },
     {
       "id": "csv-24",
@@ -486,7 +490,7 @@
       "id": "4392062529",
       "company": "Deloitte",
       "title": "Principal GenAI Engineer",
-      "status": "applied",
+      "status": "rejected",
       "applied_date": "2026-04-17",
       "url": "https://www.linkedin.com/jobs/view/4392062529",
       "location": "Salt Lake City Metropolitan Area",
@@ -521,7 +525,9 @@
         "Professional development"
       ],
       "notes": "Match score ~75/100 - Strong Python, AI agents, distributed systems. 20+ years experience exceeds 8+ requirement. AI agents work at Equifax demonstrates relevant GenAI experience. NOTE: Initial resume may have been missing ActiveCare and US Air Force - unable to re-apply.",
-      "saved_date": "2026-04-17"
+      "saved_date": "2026-04-17",
+      "last_email_date": "2026-04-20",
+      "last_email_note": "Rejection: Position not ideally suited to qualifications"
     },
     {
       "id": "csv-21",
@@ -1417,6 +1423,49 @@
       "notes": "Strong fit - enterprise architecture, SDLC focus aligns with backend experience. TOGAF is nice-to-have. Hybrid Midvale (new tech campus). RE-APPLIED with corrected resume (initial submission missing ActiveCare, US Air Force, and other experience).",
       "interaction_notes": "Applied with tailored resume + cover letter",
       "saved_date": "2026-04-17"
+    },
+    {
+      "company": "Teleport",
+      "title": "Senior Backend Engineer - Platform Security",
+      "status": "under_review",
+      "location": "Spanish Fork, UT",
+      "salary": "$189,000 - $342,000",
+      "url": "https://www.linkedin.com/jobs/view/4387630905",
+      "applied_date": "2026-04-20",
+      "last_email_date": "2026-04-20",
+      "last_email_note": "Application received, under review by hiring team"
+    },
+    {
+      "company": "Paxos",
+      "title": "Senior Software Engineer, Custody",
+      "status": "under_review",
+      "location": "United States / Canada (Remote)",
+      "salary": "$206,000 - $235,950",
+      "url": "https://jobs.ashbyhq.com/paxos/48602fab-6199-44ba-9237-08feb2d69a58",
+      "applied_date": "2026-04-20",
+      "last_email_date": "2026-04-20",
+      "last_email_note": "Application received, TA team reviewing"
+    },
+    {
+      "company": "Ashby",
+      "title": "Staff Platform Engineer, Americas",
+      "status": "under_review",
+      "location": "San Francisco, CA (Remote/Hybrid)",
+      "salary": "$190,000 - $275,000",
+      "url": "https://www.linkedin.com/jobs/view/4403606809",
+      "applied_date": "2026-04-20",
+      "last_email_date": "2026-04-20",
+      "last_email_note": "Application received for Staff Platform Engineer, Americas"
+    },
+    {
+      "company": "Scribd",
+      "title": "Software Engineer II (Backend + Data pipelines)",
+      "status": "under_review",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/4394713970",
+      "applied_date": "2026-04-16",
+      "last_email_date": "2026-04-16",
+      "last_email_note": "Application received for Software Engineer II"
     }
   ]
 }
