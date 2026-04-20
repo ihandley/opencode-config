@@ -35,15 +35,14 @@ Use this skill to export a saved resume version to DOCX format (e.g., for submis
 - Return valid JSON only
 - Do not include explanation outside JSON
 - If no filename provided, list available versions and use most recent
-- Export filename format: `{company}_{type}_{position}.docx` where:
+- Export filename format: `{company}_{type}.docx` where:
   - `{company}` = lowercase company name (e.g., `bestow`, `cribl`)
   - `{type}` = `resume` or `cover-letter`
-  - `{position}` = lowercase position title with hyphens (e.g., `staff-backend-engineer`)
-  - Example: `bestow_resume_staff-backend-engineer.docx`, `cribl_cover-letter_sr-search-federation.docx`
+  - Example: `bestow_resume.docx`, `cribl_cover-letter.docx`
 
 ## Workflow
 
 1. Parse input filename to extract company, position, and type (if not provided)
 2. Use the export tool with the provided filename
-3. Rename exported file to follow naming convention: `{company}_{type}_{position}.docx`
+3. Rename exported file to follow naming convention: `{company}_{type}.docx`
 4. Return the output_path and status

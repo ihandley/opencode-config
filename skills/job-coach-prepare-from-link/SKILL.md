@@ -91,9 +91,8 @@ data/job-coach/
 │   ├── {company}_resume_{title}.docx    # Tailored resume (DOCX export)
 │   ├── {company}_{title}.md             # Cover letter (markdown)
 │   ├── {company}_cover-letter_{title}.docx  # Cover letter (DOCX export)
-│   └── job-posting.md                   # Saved job posting details
-└── jobs/                                # Job tracker database
-    └── jobs.json                        # Tracked jobs metadata
+│   ├── job-posting.md                   # Saved job posting details
+└── └── jobs.json                        # Tracked jobs metadata
 ```
 
 **Example**: For Bestow Staff Backend Engineer position:
@@ -120,8 +119,7 @@ data/job-coach/bestow/
 - Use consistent naming for exported files: `{company}_{type}.{ext}` where:
   - `{company}` = lowercase company name (e.g., `bestow`, `cribl`)
   - `{type}` = `resume` or `cover-letter`
-  - `{title}` = lowercase position title with hyphens (e.g., `staff-backend-engineer`, `sr-search-federation`)
-  - Example: `bestow_resume_staff-backend-engineer.docx`, `cribl_cover-letter_sr-search-federation.docx`
+  - Example: `bestow_resume.docx`, `cribl_cover-letter.docx`
 - **CRITICAL:** Convert markdown to DOCX formatting (not plain text):
   - Heading markers (`#`, `##`, `###`) → Apply H1, H2, H3 styles
   - Bold markers (`**text**`) → Apply bold formatting to text
