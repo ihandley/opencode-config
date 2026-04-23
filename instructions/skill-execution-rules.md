@@ -19,8 +19,8 @@ These rules prevent manual workarounds when a dedicated skill exists.
 - Do not claim success without verifying the result.
 
 ## 4. Canonical Data Sources
-- Resume data: `~/code/github/opencode/data/job-coach/resume.json`
-- Job tracker: `~/code/github/opencode/data/job-coach/jobs.json`
+- Resume data: SQLite database at `$JOB_COACH_DB`
+- Job tracker: SQLite database at `$JOB_COACH_DB`
 
 ## 5. Required Post-Execution Checks
 After using a skill:

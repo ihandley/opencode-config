@@ -6,7 +6,7 @@ Improved email search workflow that uses the job tracker to find status updates 
 ## Workflow
 
 ### Step 1: Load Job Tracker
-Read `data/job-coach/jobs.json` and extract all companies with status "applied" or "saved".
+Read SQLite database at `$JOB_COACH_DB` and extract all companies with status "applied" or "saved".
 
 ### Step 2: Build Dynamic Search Query
 Create a search query from company names:
@@ -35,18 +35,19 @@ def search_job_emails(jobs_tracker_path, user_email):
     Search for emails from all applied companies.
     
     Args:
-        jobs_tracker_path: Path to jobs.json
+        db_path: Path to SQLite database at $JOB_COACH_DB
         user_email: User's Gmail address
     
     Returns:
         List of email updates with company, status, and details
     """
     import json
-    
-    # Load tracker
-    with open(jobs_tracker_path) as f:
-        tracker = json.load(f)
-    
+    from db_helper import JobCoachDB
+
+    # Load tracker from database
+    db = JobCoachDB(db_path)
+    jobs = db.get_all_jobs()
+
     # Extract applied companies
     companies = set()
     
@@ -87,7 +88,7 @@ def search_job_emails(jobs_tracker_path, user_email):
 
 When user asks "Check my email for job updates":
 
-1. Load jobs.json
+1. Load job_coach.db
 2. Extract applied companies: [Paxos, Teleport, Hightouch, Deloitte, NRG, Maven, Scribd, Assured]
 3. Search: `from:(Paxos OR Teleport OR Hightouch OR Deloitte OR NRG OR Maven OR Scribd OR Assured)`
 4. Parse results and update tracker

@@ -42,42 +42,42 @@
       "notes": "Principal level role - very senior position. Requires 10+ years experience. Government contractor working with VA. Remote position. Salary $160-187k.",
       "saved_date": "2026-04-17"
     },
-     {
-       "id": "csv-14",
-       "company": "Adobe",
-       "title": "Senior Software Engineer",
-       "url": "https://www.linkedin.com/jobs/view/4394713970",
-       "status": "awaiting_opportunity",
-       "applied_date": "4/16/26",
-       "notes": "",
-       "saved_date": "2026-04-17",
-       "recruiter": "",
-       "contacts": [],
-       "location": "Remote/Hybrid",
-       "salary": "Competitive",
-       "description": "Senior Software Engineer role at Adobe",
-       "requirements": [
-         "5+ years software engineering experience",
-         "Full-stack development",
-         "Cloud technologies"
-       ],
-       "nice_to_have": [],
-       "benefits": [
-         "Health/dental/vision",
-         "401k",
-         "Stock options",
-         "Flexible PTO"
-       ],
-       "tech_stack": [
-         "JavaScript",
-         "TypeScript",
-         "React",
-         "Node.js",
-         "AWS"
-       ],
-       "last_email_date": "2026-04-16",
-       "last_email_note": "Awaiting opportunity - no active role match at this time"
-     },
+    {
+      "id": "csv-14",
+      "company": "Adobe",
+      "title": "Senior Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4394713970",
+      "status": "awaiting_opportunity",
+      "applied_date": "4/16/26",
+      "notes": "",
+      "saved_date": "2026-04-17",
+      "recruiter": "",
+      "contacts": [],
+      "location": "Remote/Hybrid",
+      "salary": "Competitive",
+      "description": "Senior Software Engineer role at Adobe",
+      "requirements": [
+        "5+ years software engineering experience",
+        "Full-stack development",
+        "Cloud technologies"
+      ],
+      "nice_to_have": [],
+      "benefits": [
+        "Health/dental/vision",
+        "401k",
+        "Stock options",
+        "Flexible PTO"
+      ],
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "AWS"
+      ],
+      "last_email_date": "2026-04-16",
+      "last_email_note": "Awaiting opportunity - no active role match at this time"
+    },
     {
       "id": "csv-10",
       "company": "Affirm",
@@ -322,41 +322,41 @@
         "PostgreSQL"
       ]
     },
-     {
-       "id": "csv-12",
-       "company": "Circle",
-       "title": "Senior Software Engineer",
-       "url": "https://careers.circle.com/us/en/job/CIICIRUSJR100013EGEXTERNALENUS/Senior-Software-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&src=LinkedIn",
-       "status": "rejected",
-       "applied_date": "4/16/26",
-       "notes": "",
-       "saved_date": "2026-04-17",
-       "recruiter": "",
-       "contacts": [],
-       "location": "Remote",
-       "salary": "",
-       "description": "Senior Software Engineer for cryptocurrency and financial infrastructure platform",
-       "requirements": [
-         "5+ years backend development",
-         "Distributed systems",
-         "Financial systems experience"
-       ],
-       "nice_to_have": [],
-       "benefits": [
-         "Health/dental/vision",
-         "Equity",
-         "Remote-first"
-       ],
-       "tech_stack": [
-         "JavaScript",
-         "TypeScript",
-         "Node.js",
-         "AWS",
-         "PostgreSQL"
-       ],
-       "last_email_date": "2026-04-20",
-       "last_email_note": "Rejection: Other candidates align better with needs"
-     },
+    {
+      "id": "csv-12",
+      "company": "Circle",
+      "title": "Senior Software Engineer",
+      "url": "https://careers.circle.com/us/en/job/CIICIRUSJR100013EGEXTERNALENUS/Senior-Software-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&src=LinkedIn",
+      "status": "rejected",
+      "applied_date": "4/16/26",
+      "notes": "",
+      "saved_date": "2026-04-17",
+      "recruiter": "",
+      "contacts": [],
+      "location": "Remote",
+      "salary": "",
+      "description": "Senior Software Engineer for cryptocurrency and financial infrastructure platform",
+      "requirements": [
+        "5+ years backend development",
+        "Distributed systems",
+        "Financial systems experience"
+      ],
+      "nice_to_have": [],
+      "benefits": [
+        "Health/dental/vision",
+        "Equity",
+        "Remote-first"
+      ],
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "AWS",
+        "PostgreSQL"
+      ],
+      "last_email_date": "2026-04-20",
+      "last_email_note": "Rejection: Other candidates align better with needs"
+    },
     {
       "id": "csv-33",
       "company": "Circle",
@@ -419,42 +419,42 @@
         "AWS"
       ]
     },
-     {
-       "id": "csv-19",
-       "company": "Coinbase",
-       "title": "Senior Software Engineer - Data Platform",
-       "url": "https://www.coinbase.com/careers/positions/7807664?gh_jid=7807664&gh_src=w2ojef121us",
-       "status": "rejected",
-       "applied_date": "4/16/26",
-       "notes": "",
-       "saved_date": "2026-04-17",
-       "recruiter": "",
-       "contacts": [],
-       "location": "Remote",
-       "salary": "",
-       "description": "Senior Software Engineer - Data Platform. Building data infrastructure for crypto platform.",
-       "requirements": [
-         "5+ years data systems",
-         "ETL pipelines",
-         "BigQuery/data warehousing"
-       ],
-       "nice_to_have": [],
-       "benefits": [
-         "Health/dental/vision",
-         "Equity",
-         "Crypto benefits"
-       ],
-       "tech_stack": [
-         "Python",
-         "Go",
-         "Scala",
-         "Kafka",
-         "PostgreSQL",
-         "AWS"
-       ],
-       "last_email_date": "2026-04-17",
-       "last_email_note": "Rejection: Other candidates align better with needs"
-     },
+    {
+      "id": "csv-19",
+      "company": "Coinbase",
+      "title": "Senior Software Engineer - Data Platform",
+      "url": "https://www.coinbase.com/careers/positions/7807664?gh_jid=7807664&gh_src=w2ojef121us",
+      "status": "rejected",
+      "applied_date": "4/16/26",
+      "notes": "",
+      "saved_date": "2026-04-17",
+      "recruiter": "",
+      "contacts": [],
+      "location": "Remote",
+      "salary": "",
+      "description": "Senior Software Engineer - Data Platform. Building data infrastructure for crypto platform.",
+      "requirements": [
+        "5+ years data systems",
+        "ETL pipelines",
+        "BigQuery/data warehousing"
+      ],
+      "nice_to_have": [],
+      "benefits": [
+        "Health/dental/vision",
+        "Equity",
+        "Crypto benefits"
+      ],
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Scala",
+        "Kafka",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "last_email_date": "2026-04-17",
+      "last_email_note": "Rejection: Other candidates align better with needs"
+    },
     {
       "id": "4356488951",
       "company": "Deckers Brands",
@@ -990,80 +990,80 @@
       "notes": "Match score 78/100 - Go expertise and microservices strong, Java/Spring gap but Go-primary role. 20+ years experience exceeds 8+ requirement. AI agents experience matches. RE-APPLIED with corrected resume (initial submission missing ActiveCare, US Air Force, and other experience).",
       "saved_date": "2026-04-17"
     },
-     {
-       "id": "csv-22",
-       "company": "Pattern",
-       "title": "Senior Software Engineer (AI experience)",
-       "url": "https://jobs.lever.co/pattern/904c51b4-5cd1-40f1-a97d-76cc5eee0886/apply?source=LinkedIn",
-       "status": "rejected",
-       "applied_date": "4/16/26",
-       "notes": "Jordan Turner's company",
-       "saved_date": "2026-04-17",
-       "recruiter": "",
-       "contacts": [],
-       "location": "Remote",
-       "salary": "",
-       "description": "Two roles: Senior Software Engineer (AI experience) and Staff Software Engineer, Predict. AI-powered healthcare/insurance platform.",
-       "requirements": [
-         "5+ years backend",
-         "AI/ML integration",
-         "Healthcare domain"
-       ],
-       "nice_to_have": [
-         "AI agents",
-         "LLM experience"
-       ],
-       "benefits": [
-         "Health/dental/vision",
-         "Equity"
-       ],
-       "tech_stack": [
-         "Python",
-         "TypeScript",
-         "Node.js",
-         "PostgreSQL",
-         "AWS"
-       ],
-       "last_email_date": "2026-04-17",
-       "last_email_note": "Rejection: Other candidates align better with needs"
-     },
-     {
-       "id": "csv-27",
-       "company": "Pattern",
-       "title": "Staff Software Engineer, Predict",
-       "url": "https://www.linkedin.com/jobs/view/4289114569",
-       "status": "rejected",
-       "applied_date": "4/16/26",
-       "notes": "",
-       "saved_date": "2026-04-17",
-       "recruiter": "",
-       "contacts": [],
-       "location": "Remote",
-       "salary": "",
-       "description": "Two roles: Senior Software Engineer (AI experience) and Staff Software Engineer, Predict. AI-powered healthcare/insurance platform.",
-       "requirements": [
-         "5+ years backend",
-         "AI/ML integration",
-         "Healthcare domain"
-       ],
-       "nice_to_have": [
-         "AI agents",
-         "LLM experience"
-       ],
-       "benefits": [
-         "Health/dental/vision",
-         "Equity"
-       ],
-       "tech_stack": [
-         "Python",
-         "TypeScript",
-         "Node.js",
-         "PostgreSQL",
-         "AWS"
-       ],
-       "last_email_date": "2026-04-17",
-       "last_email_note": "Rejection: Other candidates align better with needs"
-     },
+    {
+      "id": "csv-22",
+      "company": "Pattern",
+      "title": "Senior Software Engineer (AI experience)",
+      "url": "https://jobs.lever.co/pattern/904c51b4-5cd1-40f1-a97d-76cc5eee0886/apply?source=LinkedIn",
+      "status": "rejected",
+      "applied_date": "4/16/26",
+      "notes": "Jordan Turner's company",
+      "saved_date": "2026-04-17",
+      "recruiter": "",
+      "contacts": [],
+      "location": "Remote",
+      "salary": "",
+      "description": "Two roles: Senior Software Engineer (AI experience) and Staff Software Engineer, Predict. AI-powered healthcare/insurance platform.",
+      "requirements": [
+        "5+ years backend",
+        "AI/ML integration",
+        "Healthcare domain"
+      ],
+      "nice_to_have": [
+        "AI agents",
+        "LLM experience"
+      ],
+      "benefits": [
+        "Health/dental/vision",
+        "Equity"
+      ],
+      "tech_stack": [
+        "Python",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "last_email_date": "2026-04-17",
+      "last_email_note": "Rejection: Other candidates align better with needs"
+    },
+    {
+      "id": "csv-27",
+      "company": "Pattern",
+      "title": "Staff Software Engineer, Predict",
+      "url": "https://www.linkedin.com/jobs/view/4289114569",
+      "status": "rejected",
+      "applied_date": "4/16/26",
+      "notes": "",
+      "saved_date": "2026-04-17",
+      "recruiter": "",
+      "contacts": [],
+      "location": "Remote",
+      "salary": "",
+      "description": "Two roles: Senior Software Engineer (AI experience) and Staff Software Engineer, Predict. AI-powered healthcare/insurance platform.",
+      "requirements": [
+        "5+ years backend",
+        "AI/ML integration",
+        "Healthcare domain"
+      ],
+      "nice_to_have": [
+        "AI agents",
+        "LLM experience"
+      ],
+      "benefits": [
+        "Health/dental/vision",
+        "Equity"
+      ],
+      "tech_stack": [
+        "Python",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "last_email_date": "2026-04-17",
+      "last_email_note": "Rejection: Other candidates align better with needs"
+    },
     {
       "id": "csv-18",
       "company": "Proofpoint",
@@ -1181,42 +1181,42 @@
         "PostgreSQL"
       ]
     },
-     {
-       "id": "csv-11",
-       "company": "SoFi",
-       "title": "Staff Software Engineer: Crypto & Commercial Banking",
-       "url": "https://www.sofi.com/careers/job/?gh_jid=7589439003",
-       "status": "interview_scheduled",
-       "applied_date": "4/16/26",
-       "notes": "",
-       "saved_date": "2026-04-17",
-       "recruiter": "",
-       "contacts": [],
-       "location": "Remote",
-       "salary": "$180,000 - $240,000",
-       "description": "Two roles: Staff SWE Crypto and Senior Staff SWE Loans. Financial technology platform.",
-       "requirements": [
-         "5-8+ years backend",
-         "Financial systems",
-         "Distributed systems"
-       ],
-       "nice_to_have": [],
-       "benefits": [
-         "Health/dental/vision",
-         "401k",
-         "Equity",
-         "SoFi products discount"
-       ],
-       "tech_stack": [
-         "Java",
-         "Python",
-         "PostgreSQL",
-         "AWS",
-         "Kafka"
-       ],
-       "last_email_date": "2026-04-20",
-       "last_email_note": "Video interview required - on-camera, photo ID verification, no virtual backgrounds, no AI assistance"
-     },
+    {
+      "id": "csv-11",
+      "company": "SoFi",
+      "title": "Staff Software Engineer: Crypto & Commercial Banking",
+      "url": "https://www.sofi.com/careers/job/?gh_jid=7589439003",
+      "status": "interview_scheduled",
+      "applied_date": "4/16/26",
+      "notes": "",
+      "saved_date": "2026-04-17",
+      "recruiter": "",
+      "contacts": [],
+      "location": "Remote",
+      "salary": "$180,000 - $240,000",
+      "description": "Two roles: Staff SWE Crypto and Senior Staff SWE Loans. Financial technology platform.",
+      "requirements": [
+        "5-8+ years backend",
+        "Financial systems",
+        "Distributed systems"
+      ],
+      "nice_to_have": [],
+      "benefits": [
+        "Health/dental/vision",
+        "401k",
+        "Equity",
+        "SoFi products discount"
+      ],
+      "tech_stack": [
+        "Java",
+        "Python",
+        "PostgreSQL",
+        "AWS",
+        "Kafka"
+      ],
+      "last_email_date": "2026-04-20",
+      "last_email_note": "Video interview required - on-camera, photo ID verification, no virtual backgrounds, no AI assistance"
+    },
     {
       "id": "csv-25",
       "company": "Sofi",
@@ -1333,40 +1333,40 @@
         "Kafka"
       ]
     },
-     {
-       "id": "csv-15",
-       "company": "Weave",
-       "title": "Principal Engineer",
-       "url": "https://jobs.ashbyhq.com/weave/be890e53-b0fc-42a8-b148-6f9e4e6053d4?utm_source=AvJaxJqGKY",
-       "status": "under_review",
-       "applied_date": "4/16/26",
-       "notes": "",
-       "saved_date": "2026-04-17",
-       "recruiter": "",
-       "contacts": [],
-       "location": "Remote",
-       "salary": "",
-       "description": "Two roles: Principal Engineer and Senior Backend Engineer. Customer communication platform.",
-       "requirements": [
-         "8+ years backend",
-         "Large scale",
-         "Leadership"
-       ],
-       "nice_to_have": [],
-       "benefits": [
-         "Health/dental/vision",
-         "Equity",
-         "Flexible hours"
-       ],
-       "tech_stack": [
-         "TypeScript",
-         "Node.js",
-         "PostgreSQL",
-         "AWS"
-       ],
-       "last_email_date": "2026-04-16",
-       "last_email_note": "Application received, team reviewing"
-     },
+    {
+      "id": "csv-15",
+      "company": "Weave",
+      "title": "Principal Engineer",
+      "url": "https://jobs.ashbyhq.com/weave/be890e53-b0fc-42a8-b148-6f9e4e6053d4?utm_source=AvJaxJqGKY",
+      "status": "under_review",
+      "applied_date": "4/16/26",
+      "notes": "",
+      "saved_date": "2026-04-17",
+      "recruiter": "",
+      "contacts": [],
+      "location": "Remote",
+      "salary": "",
+      "description": "Two roles: Principal Engineer and Senior Backend Engineer. Customer communication platform.",
+      "requirements": [
+        "8+ years backend",
+        "Large scale",
+        "Leadership"
+      ],
+      "nice_to_have": [],
+      "benefits": [
+        "Health/dental/vision",
+        "Equity",
+        "Flexible hours"
+      ],
+      "tech_stack": [
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "last_email_date": "2026-04-16",
+      "last_email_note": "Application received, team reviewing"
+    },
     {
       "id": "csv-28",
       "company": "Weave",
@@ -1399,47 +1399,47 @@
         "AWS"
       ]
     },
-     {
-       "id": "4400795818",
-       "company": "Zions Bancorporation",
-       "title": "Enterprise Architect - SDLC",
-       "status": "under_review",
-       "url": "https://www.linkedin.com/jobs/view/4400795818",
-       "location": "Midvale, UT (Hybrid - 3 days office)",
-       "description": "Enterprise Architect focused on SDLC (Software Development Lifecycle). Design and govern solution architecture for systems and software delivery lifecycle processes. Define architectural patterns, practices, processes, tool recommendations, and data integrations.",
-       "requirements": [
-         "8+ years of directly related experience",
-         "Bachelor's degree in Computer Science, Engineering, or related field",
-         "Proven experience in enterprise delivery process architecture with focus on SDLC",
-         "Familiarity with TOGAF and other industry frameworks",
-         "Strong understanding of key IT operational domains (Engineering, Ops, ITSM, PMO, QA, Dev, Security, Risk, Change, Architecture)",
-         "Experience with software/system development methodologies, processes, and tools",
-         "Excellent communication, influence, and collaboration skills"
-       ],
-       "nice_to_have": [
-         "Experience in financial services/banking",
-         "Experience with Lean Portfolio Management",
-         "Agile Release Trains (SAFe) experience"
-       ],
-       "benefits": [
-         "Medical, Dental and Vision Insurance - START DAY ONE!",
-         "Life and Disability Insurance",
-         "Paid Parental Leave and Adoption Assistance",
-         "Health Savings (HSA), Flexible Spending (FSA)",
-         "Paid Training, PTO, 11 Paid Federal Holidays",
-         "401(k) with company match, Profit Sharing",
-         "Tuition Reimbursement",
-         "Hybrid work from home schedule with 3 days/week in office at Zions Technology Center, Midvale"
-       ],
-       "recruiter": "",
-       "contacts": [],
-       "applied_date": "2026-04-17",
-       "notes": "Strong fit - enterprise architecture, SDLC focus aligns with backend experience. TOGAF is nice-to-have. Hybrid Midvale (new tech campus). RE-APPLIED with corrected resume (initial submission missing ActiveCare, US Air Force, and other experience).",
-       "interaction_notes": "Applied with tailored resume + cover letter",
-       "saved_date": "2026-04-17",
-       "last_email_date": "2026-04-17",
-       "last_email_note": "Application received, under review by hiring team"
-     },
+    {
+      "id": "4400795818",
+      "company": "Zions Bancorporation",
+      "title": "Enterprise Architect - SDLC",
+      "status": "under_review",
+      "url": "https://www.linkedin.com/jobs/view/4400795818",
+      "location": "Midvale, UT (Hybrid - 3 days office)",
+      "description": "Enterprise Architect focused on SDLC (Software Development Lifecycle). Design and govern solution architecture for systems and software delivery lifecycle processes. Define architectural patterns, practices, processes, tool recommendations, and data integrations.",
+      "requirements": [
+        "8+ years of directly related experience",
+        "Bachelor's degree in Computer Science, Engineering, or related field",
+        "Proven experience in enterprise delivery process architecture with focus on SDLC",
+        "Familiarity with TOGAF and other industry frameworks",
+        "Strong understanding of key IT operational domains (Engineering, Ops, ITSM, PMO, QA, Dev, Security, Risk, Change, Architecture)",
+        "Experience with software/system development methodologies, processes, and tools",
+        "Excellent communication, influence, and collaboration skills"
+      ],
+      "nice_to_have": [
+        "Experience in financial services/banking",
+        "Experience with Lean Portfolio Management",
+        "Agile Release Trains (SAFe) experience"
+      ],
+      "benefits": [
+        "Medical, Dental and Vision Insurance - START DAY ONE!",
+        "Life and Disability Insurance",
+        "Paid Parental Leave and Adoption Assistance",
+        "Health Savings (HSA), Flexible Spending (FSA)",
+        "Paid Training, PTO, 11 Paid Federal Holidays",
+        "401(k) with company match, Profit Sharing",
+        "Tuition Reimbursement",
+        "Hybrid work from home schedule with 3 days/week in office at Zions Technology Center, Midvale"
+      ],
+      "recruiter": "",
+      "contacts": [],
+      "applied_date": "2026-04-17",
+      "notes": "Strong fit - enterprise architecture, SDLC focus aligns with backend experience. TOGAF is nice-to-have. Hybrid Midvale (new tech campus). RE-APPLIED with corrected resume (initial submission missing ActiveCare, US Air Force, and other experience).",
+      "interaction_notes": "Applied with tailored resume + cover letter",
+      "saved_date": "2026-04-17",
+      "last_email_date": "2026-04-17",
+      "last_email_note": "Application received, under review by hiring team"
+    },
     {
       "company": "Teleport",
       "title": "Senior Backend Engineer - Platform Security",
@@ -1482,6 +1482,41 @@
       "applied_date": "2026-04-16",
       "last_email_date": "2026-04-16",
       "last_email_note": "Application received for Software Engineer II"
+    },
+    {
+      "id": "4384753852",
+      "company": "Inspiren",
+      "title": "Staff Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4384753852",
+      "status": "prepared",
+      "applied_date": null,
+      "location": "Remote, US or Canada",
+      "salary": "$200,000 - $225,000 + equity + benefits",
+      "description": "Staff Software Engineer at Inspiren. Own the long-term vision of core data models and internal API architecture. Lead architectural choices for velocity and teach modern best practices to engineers.",
+      "requirements": [
+        "8+ years backend systems architecture",
+        "Deep expertise in data modeling, distributed systems, API design",
+        "TypeScript, Node.js, and/or React",
+        "AI coding tools (Cursor, Claude Code)",
+        "Event-driven architecture (Kafka, RabbitMQ, AWS IoT Core)",
+        "Cloud infrastructure & serverless",
+        "SQL and NoSQL databases"
+      ],
+      "nice_to_have": [
+        "Observability tools",
+        "CI/CD pipelines",
+        "AI/ML integration",
+        "Security best practices"
+      ],
+      "benefits": [],
+      "recruiter": "",
+      "contacts": [],
+      "notes": "Staff-level role requiring 8+ years backend architecture experience. Emphasis on data modeling, API design, event-driven systems. Remote position. Fit score: 85/100 - Strong match on architecture and distributed systems expertise. Minor gaps: TypeScript/Node.js primary stack, no explicit NoSQL or Kafka experience mentioned in resume.",
+      "saved_date": "2026-04-21",
+      "fit_score": 85,
+      "fit_recommendation": "apply",
+      "tailored_resume_path": "data/job-coach/inspiren/inspiren_resume_staff-software-engineer.docx",
+      "cover_letter_path": "data/job-coach/inspiren/inspiren_cover-letter_staff-software-engineer.docx"
     }
   ]
 }

@@ -49,7 +49,7 @@ Use this skill as the main entry point for job preparation. Pass a job URL, get 
 
 1. Fetch job page (prefer browser fetcher for LinkedIn)
 2. Extract structured job data
-3. Load base resume from `data/job-coach/resume.json`
+3. Load base resume from SQLite database at `$JOB_COACH_DB`
 4. Evaluate job fit against resume skills and experience
 5. Create company subdirectory: `data/job-coach/{company}/`
 6. Generate tailored resume (markdown) highlighting relevant experience
@@ -57,13 +57,13 @@ Use this skill as the main entry point for job preparation. Pass a job URL, get 
 8. **Convert markdown to DOCX formatting** (headings, bold, italic, lists, etc.) with no markdown characters visible
 9. Export both to DOCX using baseline template styling with proper formatting applied
 10. Save job posting details to `data/job-coach/{company}/job-posting.md`
-11. Update job tracker in `data/job-coach/jobs.json`
+11. Update job tracker in SQLite database at `$JOB_COACH_DB`
 12. Find apply URL
 13. Return result with file paths and recommendation
 
 ## Resume Configuration
 
-**Primary Resume Source**: `data/job-coach/resume.json`
+**Primary Resume Source**: SQLite database at `$JOB_COACH_DB`
 
 This is a structured JSON file containing:
 - Personal info (name, email, phone, location)
@@ -83,7 +83,7 @@ All files are stored locally in the `data/job-coach/` directory:
 
 ```
 data/job-coach/
-├── resume.json                          # Primary resume (structured data)
+├── job_coach.db                         # SQLite database (resume + jobs)
 ├── baseline-resume.docx                 # DOCX template for exports
 ├── baseline-resume.pdf                  # PDF reference
 ├── {company}/                           # Company-specific subdirectory
@@ -92,7 +92,7 @@ data/job-coach/
 │   ├── {company}_{title}.md             # Cover letter (markdown)
 │   ├── {company}_cover-letter_{title}.docx  # Cover letter (DOCX export)
 │   ├── job-posting.md                   # Saved job posting details
-└── └── jobs.json                        # Tracked jobs metadata
+└── └── jobs.json                        # DEPRECATED - migrated to SQLite
 ```
 
 **Example**: For Bestow Staff Backend Engineer position:

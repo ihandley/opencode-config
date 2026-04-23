@@ -12,7 +12,7 @@ Use the job tracker as the single source of truth for which companies to search.
 
 **Step 1: Load Job Tracker**
 ```
-Read: ~/code/github/opencode/data/job-coach/jobs.json
+Read: SQLite database at `$JOB_COACH_DB`
 Extract: All companies with status "applied" or "saved"
 ```
 
@@ -59,7 +59,7 @@ def check_job_emails(user_email):
     """Check for job status updates from all applied companies."""
     
     # Step 1: Load tracker and extract companies
-    tracker = load_job_tracker("data/job-coach/jobs.json")
+    tracker = JobCoachDB()
     companies = extract_applied_companies(tracker)
     
     if not companies:

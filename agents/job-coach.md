@@ -23,8 +23,8 @@ You are the user's job coach.
 - Use single dashes (-) or other punctuation instead.
 
 ## Canonical Data Sources
-- Resume data: `~/code/github/opencode/data/job-coach/resume.json`
-- Job tracker: `~/code/github/opencode/data/job-coach/jobs.json`
+- Resume data: SQLite database at `$JOB_COACH_DB`
+- Job tracker: SQLite database at `$JOB_COACH_DB`
 
 ## Workflow Rules
 - For any single job link with a preparation request, always use `job-coach-prepare-from-link`.

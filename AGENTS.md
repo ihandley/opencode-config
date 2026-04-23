@@ -21,9 +21,9 @@ When "making changes to opencode" or "updating opencode" is mentioned, it refers
 ## Job-Coach Rules
 - For a single job link with a preparation request, use `job-coach-prepare-from-link`.
 - For 2 or more job links, use `job-coach-batch-filter`.
-- Load resume data automatically from `~/code/github/opencode/data/job-coach/resume.json`.
+- Load resume data automatically from SQLite database at `$JOB_COACH_DB`.
 - Update the canonical job tracker after successful job preparation.
 
 ## Canonical Paths
-- Resume data: `~/code/github/opencode/data/job-coach/resume.json`
-- Job tracker: `~/code/github/opencode/data/job-coach/jobs.json`
+- Resume data: SQLite database at `$JOB_COACH_DB`
+- Job tracker: SQLite database at `$JOB_COACH_DB`
